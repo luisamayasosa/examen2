@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body, th, td{font-family: 'Roboto', sans-serif;
+font-weight: 20;
+}
+
+#sec-hero{
+	background-image: url(../img/bg-1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: #fff;
+	padding: 50px 0 100px;
+	text-align: center;
+}
+
+#sec-hero h2{
+	text-align: center;
+	
+}
+
+#sec-hero h6{
+	text-align: center;
+	
+}
+
+
+#sec-services{
+	background-color: rgba(0,0,0,0.10);
+	padding: 80px 0;
+	text-align: center;
+}
+
+#sec-services h6{
+	text-align: center;
+	padding-bottom: 50px
+}
+
+#sec-services h3{
+	text-align: center;
+	
+}
+
+#sec-services h2{
+	font-size: 35px;
+	color: #434345;
+	text-align: center;
+	margin-bottom: 45px;
+}
+
+.icon{
+	text-align: center;
+}
+
+#sec-services i{
+	font-size: 30px;
+	color: #1A5FB7;
+	text-align: center;
+}
+
+#sec-works{
+	text-align: center;
+
+}
+
+.title{
+	font-size: px;
+	color: #434345;
+	text-align: center;
+	margin-bottom: 45px;
+	font-weight: 700;
+}
+
+.carousel-inner{
+	background-color: #f2f2f2
+}
+
